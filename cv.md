@@ -24,3 +24,11 @@
 - 2012.09 - 2013.05 Lithuanian Teachers' Professional Union. **Website development and administration**. Working with *Joomla* content management system.
 - 2018.09 - 2021.08 Vilnius Zemynos Gymnasium. **Information technology teacher**.
 
+## Skills
+- Confident with Microsoft Office, including Word, Excel and Power Point
+- Learning fast and willing to train working with software
+- Competent with HTML and C++
+- Creative and critical thinking
+- able to work under pressure and busy environment
+- Strong organization skills
+
