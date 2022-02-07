@@ -1,1 +1,1 @@
-https://github.com/ele-kis/rsschool-cv/blob/gh-pages/cv.md
+https://ele-kis.github.io/rsschool-cv/cv
